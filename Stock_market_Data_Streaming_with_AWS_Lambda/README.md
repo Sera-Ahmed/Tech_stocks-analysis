@@ -33,7 +33,6 @@ Below are the stocks I am most interested in:
 
 
 
-![kinesis_config](/Users/sera/Desktop/Baruch Books/CIS 9760 Big Data/Projects/project03/assets/kinesis_config.png)
 
 
 
